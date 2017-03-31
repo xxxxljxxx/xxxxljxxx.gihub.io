@@ -1,0 +1,13 @@
+div p{
+  padding-left: 20px;
+}
+
+body img, body div{
+  float: left;
+}
+
+.avatar{
+  width: 200px;
+  height: 200px;
+  border-radius: 10px;
+}
