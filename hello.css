@@ -9,5 +9,11 @@ body img, body div{
 .avatar{
   width: 200px;
   height: 200px;
-  border-radius: 10px;
+  border-radius: 100px;
+}
+
+
+#subtitle{
+  font-style: italic;
+  color: grey;
 }
